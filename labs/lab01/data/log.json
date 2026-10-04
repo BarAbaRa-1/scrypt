@@ -108,5 +108,27 @@
             "WrongPassword123"
         ],
         "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "success",
+        "timestamp": "2026-10-05 00:23:57",
+        "args": [
+            "ai_admin",
+            "SecurePass12345!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "failure",
+        "timestamp": "2026-10-05 00:23:57",
+        "args": [
+            "ai_admin",
+            "WrongPassword123"
+        ],
+        "kwargs": {}
     }
 ]
