@@ -1,0 +1,112 @@
+[
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "success",
+        "timestamp": "2026-10-04 17:43:00",
+        "args": [
+            "ai_admin",
+            "SecurePass12345!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 17:43:00",
+        "args": [
+            "ai_admin",
+            "WrongPassword123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "success",
+        "timestamp": "2026-10-04 17:44:47",
+        "args": [
+            "ai_admin",
+            "SecurePass12345!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 17:44:47",
+        "args": [
+            "ai_admin",
+            "WrongPassword123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "success",
+        "timestamp": "2026-10-04 22:27:33",
+        "args": [
+            "ai_admin",
+            "SecurePass12345!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 22:27:33",
+        "args": [
+            "ai_admin",
+            "WrongPassword123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "success",
+        "timestamp": "2026-10-04 23:44:13",
+        "args": [
+            "ai_admin",
+            "SecurePass12345!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 23:44:13",
+        "args": [
+            "ai_admin",
+            "WrongPassword123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "success",
+        "timestamp": "2026-10-04 23:45:40",
+        "args": [
+            "ai_admin",
+            "SecurePass12345!"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ai_admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 23:45:40",
+        "args": [
+            "ai_admin",
+            "WrongPassword123"
+        ],
+        "kwargs": {}
+    }
+]
